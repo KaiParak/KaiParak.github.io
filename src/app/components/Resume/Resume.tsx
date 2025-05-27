@@ -7,7 +7,7 @@ const Resume = () => {
 		<div className={styles.cvContainer}>
 			<section className={styles.header}>
 				<Image
-					src="https://saltmag.ru/media/articles/inner/2020/6373/13_Bj1Lutl.jpg"
+					src="https://sun9-36.userapi.com/impg/bUAfv89gw1YuJZ7c79xUeqTEMqj6Dfeo_23IvQ/dYRRfeVtqtY.jpg?size=1440x2160&quality=95&sign=0c0a4baac8fee2e67456cf6c3657aa7c&type=album"
 					alt=""
 					width={150}
 					height={150}
