@@ -6,8 +6,7 @@ const Resume = () => {
 		<div className={styles.cvContainer}>
 			<section className={styles.header}>
 				<Image
-					// src="https://sun9-36.userapi.com/impg/bUAfv89gw1YuJZ7c79xUeqTEMqj6Dfeo_23IvQ/dYRRfeVtqtY.jpg?size=1440x2160&quality=95&sign=0c0a4baac8fee2e67456cf6c3657aa7c&type=album"
-					src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEIRQV8cAj5lnilpwnnNMr40oj25n16MLmDw&s"
+					src="https://sun9-36.userapi.com/impg/bUAfv89gw1YuJZ7c79xUeqTEMqj6Dfeo_23IvQ/dYRRfeVtqtY.jpg?size=1440x2160&quality=95&sign=0c0a4baac8fee2e67456cf6c3657aa7c&type=album"
 					alt=""
 					width={150}
 					height={150}
